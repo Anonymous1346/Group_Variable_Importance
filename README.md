@@ -41,7 +41,7 @@ for (count in 1:length(installedpackages)) {
   * The plotting is done under ```plots/plot_figure_simulations_grps.ipynb``` with:
     * `Figure 1` for the Figure 2 in the main text
     * `Power + Time + Prediction scores` for the Figure 6 in the supplement
-    * `Figure 1 Calibration` for the Figure 4 in the supplement
+    * `Figure 1 Calibration` for the Figure 5 in the supplement
 
 ## For the **Second experiment**:
   * We use ``` compute_simulations_groups```.
